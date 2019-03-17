@@ -1,0 +1,14 @@
+D:\Dokumenti\Škola\4 .Semestar\OS\Zad2\Zad2\bin\Debug\Zad2.exe.config
+D:\Dokumenti\Škola\4 .Semestar\OS\Zad2\Zad2\bin\Debug\Zad2.exe
+D:\Dokumenti\Škola\4 .Semestar\OS\Zad2\Zad2\bin\Debug\Zad2.pdb
+D:\Dokumenti\Škola\4 .Semestar\OS\Zad2\Zad2\obj\Debug\Zad2.csprojAssemblyReference.cache
+D:\Dokumenti\Škola\4 .Semestar\OS\Zad2\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+D:\Dokumenti\Škola\4 .Semestar\OS\Zad2\Zad2\obj\Debug\Zad2.exe
+D:\Dokumenti\Škola\4 .Semestar\OS\Zad2\Zad2\obj\Debug\Zad2.pdb
+D:\Programiranje i ostalo\Operacijski Sustavi\Vjezba2\OS\OS\Zad2\Zad2\bin\Debug\Zad2.exe.config
+D:\Programiranje i ostalo\Operacijski Sustavi\Vjezba2\OS\OS\Zad2\Zad2\bin\Debug\Zad2.exe
+D:\Programiranje i ostalo\Operacijski Sustavi\Vjezba2\OS\OS\Zad2\Zad2\bin\Debug\Zad2.pdb
+D:\Programiranje i ostalo\Operacijski Sustavi\Vjezba2\OS\OS\Zad2\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache
+D:\Programiranje i ostalo\Operacijski Sustavi\Vjezba2\OS\OS\Zad2\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+D:\Programiranje i ostalo\Operacijski Sustavi\Vjezba2\OS\OS\Zad2\Zad2\obj\Debug\Zad2.exe
+D:\Programiranje i ostalo\Operacijski Sustavi\Vjezba2\OS\OS\Zad2\Zad2\obj\Debug\Zad2.pdb
